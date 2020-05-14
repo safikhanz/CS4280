@@ -1,0 +1,11 @@
+Safiullah khan
+CMP 4280 
+Final project
+
+	
+	Only prints file.asm or out.asm, depending on if you gave it a file
+	Only takes input files with .sp20 after them
+	
+Issues:
+
+Only accepts the file if the file has .sp20 orelse it will reject it. 

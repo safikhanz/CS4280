@@ -1,0 +1,9 @@
+declare x := 0 ;
+{
+in x ;
+loop [ x < 5 ]
+{
+in x ;
+} ;
+out x;
+}
